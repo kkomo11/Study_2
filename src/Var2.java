@@ -7,7 +7,7 @@ public class Var2 {
 		float f1 = 2.1234f;
 		float f2 = f1;
 		System.out.print(d1 + " " + f1 + " " + f2);
-		 
+		// 바꾸기 용 주석
 		int kor = 0;
 		int math = 0;
 		int eng = 0;
